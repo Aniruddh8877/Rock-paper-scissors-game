@@ -2,10 +2,11 @@
     margin: 0;
     padding: 0;
     text-align: center;
+    background: rgb(19, 44, 66);
   }
   
   h1 {
-    background-color: #081b31;
+    background-color: #000000;
     color: #fff;
     height: 5rem;
     line-height: 5rem;
@@ -22,7 +23,8 @@
   
   .choice:hover {
     cursor: pointer;
-    background-color: #081b31;
+    background-color: #000000;
+    transform: scale(1.1)
   }
   
   img {
